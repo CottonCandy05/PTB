@@ -1,5 +1,5 @@
 # Recommended filename: PngToBytearray.py
-# Usage: go to console and run "python reverse_mono_vlsb.py my_output_data.py output_reconstructed.png W H (replace the W amd H with original resolution in px)"
+# Usage: go to console and run "python BytearrayToPng.py my_output_data.py output_reconstructed.png W H (Replace W and H with the original resolution in pixels.)"
 
 from PIL import Image
 import sys
